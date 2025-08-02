@@ -782,12 +782,6 @@ docker-compose ps
 }
 ```
 
-## License
-
-This project is created for educational/internship purposes. Please ensure compliance with your organization's policies before using in production.
-
----
-
 ## Contact
 
-For questions or issues, please refer to the project documentation or create an issue in the repository.
+For questions or issues, please refer to the project documentation or create an issue in the repository or prashantraj02r@gmail.com.
